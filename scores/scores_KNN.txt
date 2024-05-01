@@ -1,0 +1,64 @@
+Encoding method: backwarddifference_encoded.csv
+ROC AUC score: 0.62
+F1 score: 0.29
+
+Encoding method: basen_encoded.csv
+ROC AUC score: 0.61
+F1 score: 0.29
+
+Encoding method: binary_encoded.csv
+ROC AUC score: 0.67
+F1 score: 0.31
+
+Encoding method: catboost_encoded.csv
+ROC AUC score: 0.71
+F1 score: 0.32
+
+Encoding method: frequency_encoded.csv
+ROC AUC score: 0.62
+F1 score: 0.29
+
+Encoding method: hashing_encoded.csv
+ROC AUC score: 0.59
+F1 score: 0.21
+
+Encoding method: helmert_encoded.csv
+ROC AUC score: 0.64
+F1 score: 0.28
+
+Encoding method: jamesstein_encoded.csv
+ROC AUC score: 0.65
+F1 score: 0.33
+
+Encoding method: label_encoded.csv
+ROC AUC score: 0.62
+F1 score: 0.29
+
+Encoding method: leaveoneout_encoded.csv
+ROC AUC score: 0.83
+F1 score: 0.57
+
+Encoding method: mca_encoded.csv
+ROC AUC score: 0.91
+F1 score: 0.71
+
+Encoding method: mestimate_encoded.csv
+ROC AUC score: 0.64
+F1 score: 0.30
+
+Encoding method: onehot_encoded.csv
+ROC AUC score: 0.62
+F1 score: 0.27
+
+Encoding method: ordinal_encoded.csv
+ROC AUC score: 0.62
+F1 score: 0.29
+
+Encoding method: polynomial_encoded.csv
+ROC AUC score: 0.64
+F1 score: 0.30
+
+Encoding method: sum_encoded.csv
+ROC AUC score: 0.61
+F1 score: 0.26
+

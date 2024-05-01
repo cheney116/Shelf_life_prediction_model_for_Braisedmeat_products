@@ -1,0 +1,1 @@
+# Shelf_life_prediction_model_for_Braisedmeat_products
